@@ -1,0 +1,797 @@
+<div class="grid-inner-container row">
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/Pherg9NYY">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/Pherg9NYY/1684241909/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/Pherg9NYY/1684241909/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Pherg9NYY/1684241909/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Pherg9NYY/1684241909/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Pherg9NYY/1684241909/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Pherg9NYY/1684241909/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Edukacja dla bezpieczeństwa,&nbsp; II i&nbsp;III etap edukacyjny"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Edukacja dla bezpieczeństwa                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Edukacja dla bezpieczeństwa,&nbsp; II i&nbsp;III etap edukacyjny                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P3zLNHQTL">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P3zLNHQTL/1683892515/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P3zLNHQTL/1683892515/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P3zLNHQTL/1683892515/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P3zLNHQTL/1683892515/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P3zLNHQTL/1683892515/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P3zLNHQTL/1683892515/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język angielski, Język I&nbsp;oraz Język II"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język angielski, Język I&nbsp;oraz Język II                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P12IoP2Jo">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P12IoP2Jo/1683892631/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P12IoP2Jo/1683892631/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P12IoP2Jo/1683892631/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P12IoP2Jo/1683892631/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P12IoP2Jo/1683892631/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P12IoP2Jo/1683892631/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język niemiecki, Język I&nbsp;oraz Język II"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język niemiecki, Język I&nbsp;oraz Język II                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P13ykX7b3">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P13ykX7b3/1683892660/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P13ykX7b3/1683892660/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P13ykX7b3/1683892660/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P13ykX7b3/1683892660/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P13ykX7b3/1683892660/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P13ykX7b3/1683892660/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język niemiecki, Edukacja wczesnoszkolna"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Edukacja językowa. Język mniejszości narodowej – język niemiecki                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język niemiecki, Edukacja wczesnoszkolna                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/Ps9oZ2mJu">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/Ps9oZ2mJu/1683892762/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/Ps9oZ2mJu/1683892762/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Ps9oZ2mJu/1683892762/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Ps9oZ2mJu/1683892762/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Ps9oZ2mJu/1683892762/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Ps9oZ2mJu/1683892762/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Historia muzyki i&nbsp;historia sztuki, III etap edukacyjny LO/TECH"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Historia sztuki, Historia muzyki                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Historia muzyki i&nbsp;historia sztuki, III etap edukacyjny LO/TECH                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P3zsCFjNh">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P3zsCFjNh/1683892782/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P3zsCFjNh/1683892782/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P3zsCFjNh/1683892782/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P3zsCFjNh/1683892782/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P3zsCFjNh/1683892782/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P3zsCFjNh/1683892782/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Plastyka, II i&nbsp;III etap edukacyjny LO/TECH"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Plastyka                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Plastyka, II i&nbsp;III etap edukacyjny LO/TECH                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P18CwL2rb">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P18CwL2rb/1683892811/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P18CwL2rb/1683892811/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P18CwL2rb/1683892811/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P18CwL2rb/1683892811/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P18CwL2rb/1683892811/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P18CwL2rb/1683892811/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Muzyka, II i&nbsp;III etap edukacyjny LO/TECH"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Muzyka                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Muzyka, II i&nbsp;III etap edukacyjny LO/TECH                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PokrGT3h8">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PokrGT3h8/1683892910/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PokrGT3h8/1683892910/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PokrGT3h8/1683892910/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PokrGT3h8/1683892910/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PokrGT3h8/1683892910/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PokrGT3h8/1683892910/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język polski, III etap edukacyjny, Szkoła branżowa I&nbsp;i&nbsp;II stopnia"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język polski                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język polski, III etap edukacyjny, Szkoła branżowa I&nbsp;i&nbsp;II stopnia                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PeUgwbDZ3">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PeUgwbDZ3/1683893025/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PeUgwbDZ3/1683893025/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PeUgwbDZ3/1683893025/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PeUgwbDZ3/1683893025/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PeUgwbDZ3/1683893025/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PeUgwbDZ3/1683893025/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Filozofia oraz Język łaciński i&nbsp;kultura antyczna, III etap edukacyjny LO/TECH"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Filozofia, Język łaciński i kultura antyczna                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Filozofia oraz Język łaciński i&nbsp;kultura antyczna, III etap edukacyjny LO/TECH                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PKe8Uriop">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PKe8Uriop/1683893065/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PKe8Uriop/1683893065/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PKe8Uriop/1683893065/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PKe8Uriop/1683893065/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PKe8Uriop/1683893065/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PKe8Uriop/1683893065/cover.jpg" alt="Zestaw narzędzi edukacyjnych, WOS,  III etap edukacyjny LO/TECH"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Wiedza o społeczeństwie                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, WOS,  III etap edukacyjny LO/TECH                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PibAIRmS7">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PibAIRmS7/1683893143/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PibAIRmS7/1683893143/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PibAIRmS7/1683893143/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PibAIRmS7/1683893143/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PibAIRmS7/1683893143/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PibAIRmS7/1683893143/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Historia,  III etap edukacyjny LO/TECH"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Historia                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Historia,  III etap edukacyjny LO/TECH                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PLwydaf4m">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PLwydaf4m/1683893195/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PLwydaf4m/1683893195/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PLwydaf4m/1683893195/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PLwydaf4m/1683893195/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PLwydaf4m/1683893195/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PLwydaf4m/1683893195/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Historia i&nbsp;WOS, II etap edukacyjny"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Historia, Wiedza o społeczeństwie                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Historia i&nbsp;WOS, II etap edukacyjny                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PUe6VjDjR">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PUe6VjDjR/1683893224/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PUe6VjDjR/1683893224/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PUe6VjDjR/1683893224/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PUe6VjDjR/1683893224/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PUe6VjDjR/1683893224/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PUe6VjDjR/1683893224/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język polski,  II etap edukacyjny"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język polski                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język polski,  II etap edukacyjny                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P10Z76bF8">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P10Z76bF8/1683893251/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P10Z76bF8/1683893251/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P10Z76bF8/1683893251/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P10Z76bF8/1683893251/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P10Z76bF8/1683893251/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P10Z76bF8/1683893251/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język angielski,  Szkoła branżowa I&nbsp;i&nbsp;II stopnia"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język angielski,  Szkoła branżowa I&nbsp;i&nbsp;II stopnia                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PZsnhO09I">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PZsnhO09I/1683893354/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PZsnhO09I/1683893354/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PZsnhO09I/1683893354/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PZsnhO09I/1683893354/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PZsnhO09I/1683893354/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PZsnhO09I/1683893354/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język angielski,  Język I&nbsp;oraz Język II  LO/TECH"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język angielski,  Język I&nbsp;oraz Język II  LO/TECH                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PGO8ZL9nU">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PGO8ZL9nU/1683893402/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PGO8ZL9nU/1683893402/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PGO8ZL9nU/1683893402/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PGO8ZL9nU/1683893402/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PGO8ZL9nU/1683893402/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PGO8ZL9nU/1683893402/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język rosyjski,  Edukacja wczesnoszkolna"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Edukacja językowa. Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język rosyjski,  Edukacja wczesnoszkolna                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P8qDHJwCv">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P8qDHJwCv/1683893553/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P8qDHJwCv/1683893553/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P8qDHJwCv/1683893553/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P8qDHJwCv/1683893553/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P8qDHJwCv/1683893553/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P8qDHJwCv/1683893553/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język hiszpański, Edukacja wczesnoszkolna"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Edukacja językowa. Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język hiszpański, Edukacja wczesnoszkolna                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PqSZU9HbT">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PqSZU9HbT/1683893614/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PqSZU9HbT/1683893614/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PqSZU9HbT/1683893614/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PqSZU9HbT/1683893614/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PqSZU9HbT/1683893614/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PqSZU9HbT/1683893614/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język hiszpański,  Język I&nbsp;oraz Język II"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język hiszpański,  Język I&nbsp;oraz Język II                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/Pl5qseOfG">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/Pl5qseOfG/1683893696/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/Pl5qseOfG/1683893696/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Pl5qseOfG/1683893696/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Pl5qseOfG/1683893696/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Pl5qseOfG/1683893696/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Pl5qseOfG/1683893696/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język angielski,  Edukacja wczesnoszkolna"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Edukacja językowa. Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język angielski,  Edukacja wczesnoszkolna                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+
+    <div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P18CzBjJj">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P18CzBjJj/1683893721/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P18CzBjJj/1683893721/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P18CzBjJj/1683893721/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P18CzBjJj/1683893721/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P18CzBjJj/1683893721/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P18CzBjJj/1683893721/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Edukacja wczesnoszkolna"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Edukacja wczesnoszkolna                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Edukacja wczesnoszkolna                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div>
+<div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PW6WR3ueG"><div role="alert" class="sr-only">Wczytano nowe wyniki</div>
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PW6WR3ueG/1683893743/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PW6WR3ueG/1683893743/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PW6WR3ueG/1683893743/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PW6WR3ueG/1683893743/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PW6WR3ueG/1683893743/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PW6WR3ueG/1683893743/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Wychowanie przedszkolne"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Wychowanie przedszkolne                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Wychowanie przedszkolne                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P1B6mHTn7">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1B6mHTn7/1683893762/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1B6mHTn7/1683893762/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1B6mHTn7/1683893762/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1B6mHTn7/1683893762/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1B6mHTn7/1683893762/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1B6mHTn7/1683893762/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język francuski,  Język I&nbsp;oraz Język II"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język francuski,  Język I&nbsp;oraz Język II                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P1HaORf5s">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1HaORf5s/1683893779/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1HaORf5s/1683893779/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1HaORf5s/1683893779/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1HaORf5s/1683893779/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1HaORf5s/1683893779/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1HaORf5s/1683893779/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język francuski, edukacja wczesnoszkolna"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Edukacja językowa. Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język francuski, edukacja wczesnoszkolna                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P11zMPuFi">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P11zMPuFi/1683893858/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P11zMPuFi/1683893858/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P11zMPuFi/1683893858/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P11zMPuFi/1683893858/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P11zMPuFi/1683893858/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P11zMPuFi/1683893858/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język francuski,  szkoła branżowa I&nbsp;i&nbsp;II stopnia"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język francuski,  szkoła branżowa I&nbsp;i&nbsp;II stopnia                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PjYnoguha">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PjYnoguha/1683893972/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PjYnoguha/1683893972/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PjYnoguha/1683893972/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PjYnoguha/1683893972/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PjYnoguha/1683893972/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PjYnoguha/1683893972/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język francuski, Liceum Ogólnokształcące / Technikum,&nbsp;poziom podstawowy i&nbsp;rozszerzony (Język I&nbsp;i&nbsp;Język II)"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język francuski, Liceum Ogólnokształcące / Technikum,&nbsp;poziom podstawowy i&nbsp;rozszerzony (Język I&nbsp;i&nbsp;Język II)                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PFwf2qnUD">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PFwf2qnUD/1683894020/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PFwf2qnUD/1683894020/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PFwf2qnUD/1683894020/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PFwf2qnUD/1683894020/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PFwf2qnUD/1683894020/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PFwf2qnUD/1683894020/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język polski, Liceum Ogólnokształcące / Technikum,&nbsp;poziom podstawowy i&nbsp;rozszerzony"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język polski                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język polski, Liceum Ogólnokształcące / Technikum,&nbsp;poziom podstawowy i&nbsp;rozszerzony                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P1EVxW8fy">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1EVxW8fy/1683894063/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1EVxW8fy/1683894063/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1EVxW8fy/1683894063/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1EVxW8fy/1683894063/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1EVxW8fy/1683894063/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1EVxW8fy/1683894063/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język rosyjski, Liceum Ogólnokształcące / Technikum, poziom podstawowy i&nbsp;rozszerzony"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język rosyjski, Liceum Ogólnokształcące / Technikum, poziom podstawowy i&nbsp;rozszerzony                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P4sPFYyvc">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P4sPFYyvc/1683894090/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P4sPFYyvc/1683894090/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P4sPFYyvc/1683894090/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P4sPFYyvc/1683894090/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P4sPFYyvc/1683894090/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P4sPFYyvc/1683894090/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język rosyjski, Szkoła branżowa I&nbsp;i&nbsp;II stopnia"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język rosyjski, Szkoła branżowa I&nbsp;i&nbsp;II stopnia                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P1CN18cVG">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1CN18cVG/1683894108/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1CN18cVG/1683894108/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1CN18cVG/1683894108/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1CN18cVG/1683894108/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1CN18cVG/1683894108/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1CN18cVG/1683894108/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język rosyjski, Język I&nbsp;oraz Język II"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język rosyjski, Język I&nbsp;oraz Język II                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P8oiHyUwz">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P8oiHyUwz/1683894145/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P8oiHyUwz/1683894145/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P8oiHyUwz/1683894145/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P8oiHyUwz/1683894145/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P8oiHyUwz/1683894145/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P8oiHyUwz/1683894145/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język włoski, Język I&nbsp;oraz Język II"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język włoski, Język I&nbsp;oraz Język II                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P1CsLN9IW">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1CsLN9IW/1683894174/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P1CsLN9IW/1683894174/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1CsLN9IW/1683894174/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1CsLN9IW/1683894174/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1CsLN9IW/1683894174/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P1CsLN9IW/1683894174/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język włoski, Liceum Ogólnokształcące / Technikum, poziom podstawowy i&nbsp;rozszerzony"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język włoski, Liceum Ogólnokształcące / Technikum, poziom podstawowy i&nbsp;rozszerzony                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PtrH8MW5C">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PtrH8MW5C/1683894320/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PtrH8MW5C/1683894320/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PtrH8MW5C/1683894320/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PtrH8MW5C/1683894320/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PtrH8MW5C/1683894320/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PtrH8MW5C/1683894320/cover.jpg" alt="Zestaw narzędzi edukacyjnych, Język włoski, Szkoła branżowa I&nbsp;i&nbsp;II stopnia"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, Język włoski, Szkoła branżowa I&nbsp;i&nbsp;II stopnia                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/P125bhEha">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P125bhEha/1683894233/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/P125bhEha/1683894233/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P125bhEha/1683894233/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P125bhEha/1683894233/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P125bhEha/1683894233/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/P125bhEha/1683894233/cover.jpg" alt="Zestaw narzędzi edukacyjnych,&nbsp;Język hiszpański,&nbsp;Szkoła branżowa I&nbsp;i&nbsp;II stopnia"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych,&nbsp;Język hiszpański,&nbsp;Szkoła branżowa I&nbsp;i&nbsp;II stopnia                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PreeNp4L3">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PreeNp4L3/1683894264/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PreeNp4L3/1683894264/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PreeNp4L3/1683894264/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PreeNp4L3/1683894264/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PreeNp4L3/1683894264/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PreeNp4L3/1683894264/cover.jpg" alt="Zestaw narzędzi edukacyjnych,&nbsp;Język hiszpański,&nbsp;Liceum Ogólnokształcące / Technikum, poziom podstawowy i&nbsp;rozszerzony"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych,&nbsp;Język hiszpański,&nbsp;Liceum Ogólnokształcące / Technikum, poziom podstawowy i&nbsp;rozszerzony                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/PT1sRAlrJ">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PT1sRAlrJ/1683894288/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/PT1sRAlrJ/1683894288/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PT1sRAlrJ/1683894288/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PT1sRAlrJ/1683894288/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PT1sRAlrJ/1683894288/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/PT1sRAlrJ/1683894288/cover.jpg" alt="Zestaw narzędzi edukacyjnych, język włoski, edukacja wczesnoszkolna"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Edukacja językowa. Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, język włoski, edukacja wczesnoszkolna                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div><div class="project-card-item col-xs-6 col-sm-6 col-md-4 col-lg-3 col-stretch">
+        <span class="project-card">
+            <a class="project-card-container" href="https://zpe.gov.pl/b/Prbgcp5EO">
+                            <div class="project-card_cover " style="padding-bottom: 100%">
+                                        <picture><source media="(max-width: 425px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/Prbgcp5EO/1683894313/cover.jpg"><source media="(max-width: 767px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M256xM2048xA/reader-files/book/Prbgcp5EO/1683894313/cover.jpg"><source media="(max-width: 1023px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Prbgcp5EO/1683894313/cover.jpg"><source media="(max-width: 1279px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Prbgcp5EO/1683894313/cover.jpg"><source media="(max-width: 1365px)" srcset="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Prbgcp5EO/1683894313/cover.jpg"><img src="https://static.zpe.gov.pl/portal/minimized/v3/M512xM2048xA/reader-files/book/Prbgcp5EO/1683894313/cover.jpg" alt="Zestaw narzędzi edukacyjnych, język niemiecki, Liceum Ogólnokształcące / Technikum, poziom podstawowy i&nbsp;rozszerzony"></picture>                </div>
+            
+            <div class="project-grid_content">
+                
+                                    <div class="project-card_subject">
+                        Język obcy nowożytny                    </div>
+                
+                
+                <p class="project-card_title">
+                    Zestaw narzędzi edukacyjnych, język niemiecki, Liceum Ogólnokształcące / Technikum, poziom podstawowy i&nbsp;rozszerzony                </p>
+                                
+                
+                </div>
+            </a>
+            
+        </span>
+
+    </div></div>
